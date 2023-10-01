@@ -10,7 +10,7 @@ This project demonstrates a simple profile card design created using HTML and CS
 
   ## preview
  ![screenshot of my solution](screenshot.png)
- - Live Site URL: ([https://your-live-site-url.com](https://selmaabdelhakk.github.io/product-preview-card/))
+ - Live Site URL: (https://selmaabdelhakk.github.io/ProfileCard-HTML-CSS/)
  ## Features
 -Responsive design for various screen sizes.
 -Stylish profile card layout with profile image, name, job title, social media links, and buttons.
